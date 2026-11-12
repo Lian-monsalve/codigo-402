@@ -7,7 +7,9 @@
   "scripts": {
     "cuentas": "node --env-file-if-exists=.env crear-cuentas.js",
     "usdc": "node --env-file=.env conseguir-usdc.js",
-    "pagar": "node --env-file=.env primer-pago.js"
+    "pagar": "node --env-file=.env primer-pago.js",
+    "api": "node --env-file=.env server.js",
+    "cliente": "node --env-file=.env cliente.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +23,11 @@
   },
   "homepage": "https://github.com/Lian-monsalve/codigo-402#readme",
   "dependencies": {
-    "@stellar/stellar-sdk": "^17.4.0"
+    "@stellar/stellar-sdk": "^17.4.0",
+    "@x402/core": "^2.30.0",
+    "@x402/express": "^2.30.0",
+    "@x402/fetch": "^2.30.0",
+    "@x402/stellar": "^2.30.0",
+    "express": "^5.3.0"
   }
 }
