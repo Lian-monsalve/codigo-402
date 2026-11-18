@@ -9,3 +9,8 @@ Proyecto de integración y pagos en la red de prueba (testnet) de Stellar.
 ## Mi API cobra con x402
 - Pago de 0.01 USDC a mi API: 210ac562dbf81bb311719aaf4fa9e4cacf69a1271a58b0a056dc5ce9ad85d621
 - Verlo: https://stellar.expert/explorer/testnet/tx/210ac562dbf81bb311719aaf4fa9e4cacf69a1271a58b0a056dc5ce9ad85d621
+
+## Mi agente paga solo
+- Tope por pago: $0.02. Lo que lo excede se rechaza sin transacción.
+- Pago del agente a mi API: 24e7116452948fe16d109fb7dc4217f35629bba2363466a9636eba00d019bf42
+- Verlo: https://stellar.expert/explorer/testnet/tx/24e7116452948fe16d109fb7dc4217f35629bba2363466a9636eba00d019bf42
