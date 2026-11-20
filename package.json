@@ -11,7 +11,9 @@
     "api": "node --env-file=.env server.js",
     "cliente": "node --env-file=.env cliente.js",
     "agente-wallet": "node --env-file=.env crear-agente.js",
-    "agente": "node --env-file=.env agente.js"
+    "agente": "node --env-file=.env agente.js",
+    "verificar": "node --env-file=.env verificar.js",
+    "test": "node --env-file=.env --test"
   },
   "repository": {
     "type": "git",

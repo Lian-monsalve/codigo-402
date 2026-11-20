@@ -14,3 +14,7 @@ Proyecto de integración y pagos en la red de prueba (testnet) de Stellar.
 - Tope por pago: $0.02. Lo que lo excede se rechaza sin transacción.
 - Pago del agente a mi API: 24e7116452948fe16d109fb7dc4217f35629bba2363466a9636eba00d019bf42
 - Verlo: https://stellar.expert/explorer/testnet/tx/24e7116452948fe16d109fb7dc4217f35629bba2363466a9636eba00d019bf42
+
+## Mi verificador
+- Pago que verifiqué con RPC: 5147142029673d5c6b569d0763b86bc2d54096cec4e1e0beedac40327a4fd879
+
